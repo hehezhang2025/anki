@@ -1,6 +1,25 @@
 # CSV 转 Anki 格式工具
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/weipengzhang/codebuddy_anki)
+
 > **一键转换 CSV 文件为 Anki 可导入的 .apkg 格式**
+
+## 📦 安装
+
+### 方法1：从 GitHub 克隆
+```bash
+git clone https://github.com/weipengzhang/codebuddy_anki.git
+cd codebuddy_anki
+```
+
+### 方法2：直接下载
+[下载最新版本](https://github.com/weipengzhang/codebuddy_anki/archive/refs/heads/main.zip)
+
+解压后即可使用，无需安装额外依赖！
+
+---
 
 ## 📦 功能特点
 
@@ -239,13 +258,34 @@ codebuddy_anki/
 
 ## 📄 许可证
 
-MIT License
+本项目采用 [MIT License](LICENSE)
 
 ---
 
-## 🤝 反馈
+## 🤝 贡献
 
-如有问题或建议，请联系开发者。
+欢迎贡献代码、报告问题或提出建议！
+
+- 📝 [提交 Issue](https://github.com/weipengzhang/codebuddy_anki/issues)
+- 🔧 [提交 Pull Request](https://github.com/weipengzhang/codebuddy_anki/pulls)
+- 📖 查看 [贡献指南](CONTRIBUTING.md)
+
+### 贡献者
+
+感谢所有为本项目做出贡献的开发者！
+
+---
+
+## ⭐ Star History
+
+如果这个项目对你有帮助，请给个 Star ⭐️
+
+---
+
+## 📞 联系方式
+
+- 💬 [GitHub Issues](https://github.com/weipengzhang/codebuddy_anki/issues)
+- 📧 Email: [你的邮箱]
 
 ---
 
